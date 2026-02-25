@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <ImageView
+        android:id="@+id/profilerimgg"
+        android:layout_width="25.50dp"
+        android:layout_height="25.50dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_margin="10dp"
+        android:src="@drawable/photocamera"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/msgsendertyp"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@+id/profilerimgg"
+        android:layout_marginStart="6.30dp"
+        android:layout_marginTop="6.50dp"
+        android:layout_marginEnd="1.50dp"
+        android:layout_marginBottom="6.50dp"
+        android:fontFamily="@font/poppins_regular"
+        android:background="@drawable/sender_shape"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:text="ytfhjvtugjdtyfh"
+        android:padding="9.10dp"
+        />
+
+
+
+
+
+</RelativeLayout>

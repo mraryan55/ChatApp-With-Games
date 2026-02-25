@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "42356566918",
+    "project_id": "at-messenger-3e162",
+    "storage_bucket": "at-messenger-3e162.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42356566918:android:4d5c64f732ef36b66f9a07",
+        "android_client_info": {
+          "package_name": "com.example.atmessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-KMv28zwaigvH0xFq_Wy5OzA8a7VMtnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
